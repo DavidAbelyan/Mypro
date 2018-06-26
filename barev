@@ -1,1 +1,7 @@
-This is book
+git clone /path/to/repository-Check out a repository
+git add <filename>-Add files
+git push origin master-push
+git checkout -b <branchname>-Branches
+git branch -d <branchname>-Deleted
+git push --tags origin-Push all tags to remote repository:
+git push origin <branchname>-Push the branch to your remote repository, so others can use it
